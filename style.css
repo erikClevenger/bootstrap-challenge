@@ -12,9 +12,18 @@
 @media (min-width: 992px) { }
 
 /* Extra large devices (large desktops, 1200px and up)*/
-@media (min-width: 1200px) { }
+@media (min-width: 1200px) {
 
+}
 
+nav {
+	margin-bottom: 5em;
+}
+
+article{
+	height: 100vh;
+	width: auto;
+}
 
 .heroSection{
 	height: 80vh;
@@ -30,6 +39,6 @@
 
 .kittyImg{
 	display: block;
-	width: 20em;
+	width: 10em;
 	margin-bottom: 3em;
 }
